@@ -2,6 +2,8 @@
 name = "agentic-ai"
 version = "0.1.0"
 description = "Agentic AI "
+package-mode=false
+authors=["Prashanth"]
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
 dependencies = [
