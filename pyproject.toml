@@ -1,4 +1,4 @@
-[Shopping Agent]
+[project]
 name = "agentic-ai"
 version = "0.1.0"
 description = "Agentic AI "
